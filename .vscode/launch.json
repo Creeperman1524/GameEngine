@@ -14,7 +14,7 @@
             "type": "java",
             "name": "Launch MainGameLoop",
             "request": "launch",
-            "mainClass": "MainGameLoop",
+            "mainClass": "engineTester.MainGameLoop",
             "projectName": "GameEngine_295feb06",
             "vmArgs": "-Djava.library.path=lib/natives"
         }
