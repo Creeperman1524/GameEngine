@@ -12,9 +12,9 @@
         },
         {
             "type": "java",
-            "name": "Launch DisplayManager",
+            "name": "Launch MainGameLoop",
             "request": "launch",
-            "mainClass": "renderEngine.DisplayManager",
+            "mainClass": "MainGameLoop",
             "projectName": "GameEngine_295feb06",
             "vmArgs": "-Djava.library.path=lib/natives"
         }
